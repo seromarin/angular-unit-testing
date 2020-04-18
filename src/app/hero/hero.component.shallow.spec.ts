@@ -1,5 +1,5 @@
 import { TestBed, ComponentFixture } from "@angular/core/testing"
-import { HeroComponent } from "../hero/hero.component"
+import { HeroComponent } from "./hero.component"
 import { NO_ERRORS_SCHEMA } from "@angular/core";
 import { By } from "@angular/platform-browser";
 

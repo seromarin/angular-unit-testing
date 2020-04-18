@@ -1,0 +1,3 @@
+describe('HeroesComponent (shallow test)', () => {
+    
+})
